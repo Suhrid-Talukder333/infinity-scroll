@@ -1,6 +1,6 @@
 <h1>Infinity Scroll</h1>
 <div>
-  <img src="https://media.giphy.com/media/oKJR4czHBaF2aGpHAW/giphy.gif" />
+  <img src="https://media.giphy.com/media/5FLXsWXTWDSlKhYIdM/giphy.gif" />
 </div>
 </br></br>
 <p>A website demonstrating infinity load and loads images before a user reaches the end of the page. The images are fetched from UNSPLASH using api calls</p>
